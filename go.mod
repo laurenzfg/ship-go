@@ -24,3 +24,5 @@ require (
 	golang.org/x/tools v0.25.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/enbility/zeroconf/v2 => github.com/laurenzfg/zeroconf/v2 v2.0.0
